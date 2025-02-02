@@ -47,7 +47,7 @@ Fruit Ninja is an engaging and interactive game developed in Unity, where player
 - The game ends if a bomb is hit.
 
 **Video Demonstration:**
-[Upload your YouTube link here]
+
 
 **Source Code:**
 All the scripts mentioned above are included in the project repository.
